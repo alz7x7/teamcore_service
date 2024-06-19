@@ -7,7 +7,7 @@ Este proyecto es un servicio para consumir una url del servidor y devolver un JS
 - Instalar Google Cloud SDK - https://cloud.google.com/sdk/docs/install-sdk?hl=es-419
 
 ### Obtener id de proyecto Google cloud
-- Ve a google coud console y copia el `PROJECT_ID` (Nota: copiar el id del proyecto, no el numero, ejemplo: `glowing-harmony-123456-v9`, no el numero `123456789012`)
+- Ve a google coud console y copia el `PROJECT_ID` (Nota: copiar el id del proyecto, no el numero, ejemplo: `glowing-harmony-123456-v9`, no el numero `123456789012`; es importante que la cuenta de Google se encuentre activa con metodo de pago, asi sea en modo gratuito y que si esta en modo de prueba no haya caducado, ya que de lo contrario aunque permita usar casi todo no dejara subir la imagen docker y no se podra completar los pasos de forma exitosa)
 
 ### Contruir imagen docker para usar en Google cloud
 - Abrir la terminal en la carpeta raíz del proyecto
